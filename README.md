@@ -327,3 +327,8 @@ If you use this dataset or scripts in your research, please cite:
   url    = {https://github.com/LENS-TUGraz/BLE-CS-Orientation-matters}
 }
 ```
+
+## License
+
+- **Dataset** (`CS_Dataset/`): [CC BY 4.0](LICENSE)
+- **Code** (`Scripts/`): [MIT](Scripts/LICENSE)
