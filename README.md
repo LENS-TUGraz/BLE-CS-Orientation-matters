@@ -1,6 +1,6 @@
 # BLE Channel Sounding: Orientation Matters
 
-This repository contains the dataset and analysis scripts accompanying the study **"Orientation Matters: Evaluating BLE Channel Sounding Ranging Accuracy Across Device Orientations, Environments, and Hardware Platforms"**. The goal of the study is to characterize how the relative orientation between two Bluetooth Low Energy (BLE) devices — and the antenna polarization plane they expose to each other — affects the accuracy of Channel Sounding (CS)-based ranging.
+This repository contains the dataset and analysis scripts accompanying the study **"Orientation Matters: An Empirical Study on Ranging Performance of Bluetooth 6.0 Channel Sounding"**. The goal of the study is to characterize how the relative orientation between two Bluetooth Low Energy (BLE) devices - and the antenna polarization plane they expose to each other - affects the accuracy of Channel Sounding (CS)-based ranging.
 
 BLE Channel Sounding is a Bluetooth 6.0 feature that enables accurate distance estimation by measuring the phase of received tones across multiple radio channels. While promising for proximity-sensing and indoor positioning, its practical performance can degrade significantly depending on the physical orientation of the communicating devices. This dataset enables a systematic, reproducible investigation of this effect.
 
