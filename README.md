@@ -322,7 +322,7 @@ If you use this dataset or scripts in your research, please cite:
 ```bibtex
 @inproceedings{dzafic2026orientation,
   title     = {{Orientation Matters: An Empirical Study on Ranging Performance of Bluetooth 6.0 Channel Sounding}},
-  author    = {Dzafic, Dzenita and Pestana, Jes{\'u}s and Schu{\ss}, Markus},
+  author    = {Dzafic, Dzenita and Pestana, Jes{\'u}s and Schu{\ss}, Markus and Boano, Carlo Alberto and R{\"o}mer, Kay},
   booktitle = {Proceedings of the International Conference on Embedded Wireless Systems and Networks (EWSN)},
   year      = {2026},
   doi       = {10.3217/wr14-7m60},
